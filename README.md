@@ -23,8 +23,8 @@ To use this application, first you will need to clone or download the codes from
 You can add expenses and deposits to their budget.  You can view the combined amount offline or online.
 
 ## License:
-    - [MIT](https://choosealicense.com/licenses/mit/)
-    - [ISC](https://choosealicense.com/licenses/isc/)
+  - [MIT](https://choosealicense.com/licenses/mit/)
+  - [ISC](https://choosealicense.com/licenses/isc/)
 
 ## Contributing:
 
