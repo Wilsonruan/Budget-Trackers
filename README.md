@@ -2,7 +2,7 @@
 
 ## Description:
 
-As a user, I want to be able to view create a budget tracker application.  This application can work online and offline.  When entering transactions offline, they should populate the total when brought back online.
+Budget Tracker can work online and offline. User can input debit or credit while viewing the total balance shown on top.
 
 ## Table of Contents
 
